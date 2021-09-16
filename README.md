@@ -1,8 +1,8 @@
 # BGNBD-GG_CLTV_Prediction
-Probabilistic lifetime value estimation with time projection
+Probabilistic lifetime value estimation with time projection		
 *BG/NBD Model
 Beta Geometric / Negative Binomial distribution=Expected Number of Transaction
-The BG/NBD Model probabilistically models two processes for the Expected Number of Transaction.
+The BG/NBD Model probabilistically models two processes for the Expected Number of Transaction. 
 a. Transaction Process (Buy)
 • As long as it is alive, the number of transactions to be performed by a client in a given time period is distributed poisson by the transaction rate parameter.
 • As long as a customer is alive, they will continue to make random purchases around their transaction rate.
